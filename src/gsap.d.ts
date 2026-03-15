@@ -1,3 +1,4 @@
-declare module 'gsap-trial/SplitText';
-declare module 'gsap-trial/gsap-core';
-declare module 'gsap-trial/all';
+declare module 'gsap/SplitText';
+declare module 'gsap/ScrollSmoother';
+declare module 'gsap/gsap-core';
+declare module 'gsap/all';
